@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557449625024",
+    "project_id": "sullok-metrimonial",
+    "storage_bucket": "sullok-metrimonial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557449625024:android:5cd79e7672a5a165441c25",
+        "android_client_info": {
+          "package_name": "com.banner.metrimonialsullokupdated"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPWTXKFHF5cP3-bDtoTjdpJNMpYqYAp-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
